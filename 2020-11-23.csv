@@ -1,0 +1,5 @@
+SNO,Status,"Zoho ID","Order ID",Description,"Zoho Link",Time
+1,Failed,N/A,11176,"The selected customer for this invoice is incorrect. Please select the correct customer before recording the payment. - 24011",,"2020-11-23 19:39:39"
+2,Failed,N/A,11176,"The Customer field can neither be blank nor be incorrect. Please enter a correct customer. - 3008",,"2020-11-23 19:39:39"
+3,Failed,N/A,11176,"Please ensure that the Shipping State Code has less than 5 characters. - 15",,"2020-11-23 19:39:37"
+4,Filtered,N/A,11176,"Items filtered",,"2020-11-23 19:39:36"
